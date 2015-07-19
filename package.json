@@ -1,0 +1,25 @@
+{
+  "name": "originate-react-application",
+  "version": "0.0.0",
+  "description": "loom origin for creating react applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mzabriskie/originate-react-application.git"
+  },
+  "author": "Matt Zabriskie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mzabriskie/originate-react-application/issues"
+  },
+  "homepage": "https://github.com/mzabriskie/originate-react-application",
+  "dependencies": {
+    "glob": "^5.0.14",
+    "loom": "^3.1.2",
+    "originate": "^0.1.5",
+    "prompt": "^0.2.14"
+  }
+}
